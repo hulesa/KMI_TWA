@@ -1,0 +1,28 @@
+.card{
+    width: 291px;
+    height: 495px;
+    border: 2px solid black;
+    background: url(eso_zaludy.jpg);
+    background-repeat: no-repeat;
+}
+
+#top{
+    padding-left: 20px;
+    padding-top: 20px;
+    color: yellow;
+    font-size: 20px;
+}
+
+#center_symbol{
+    color: yellow;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 200px;
+}
+
+#bottom{
+    padding-left: 240px;
+    padding-top: 80px;
+    color: yellow;
+    font-size: 20px;
+}

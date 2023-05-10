@@ -1,0 +1,50 @@
+/* poměr stran 7:11 = 126:198, 126/3=42 */
+.estonsko-modra{
+    background-color: rgb( 0, 114, 206);
+    width: 198px;
+    height: 42px;
+}
+
+.estonsko-cerna{
+    background-color: rgb( 0, 0, 0);
+    width: 198px;
+    height: 42px;
+}
+
+.estonsko-bila{
+    background-color: rgb( 255, 255, 255);
+    width: 198px;
+    height: 42px;
+}
+
+/* poměr stran 1:2 = 111:222, 111/3=37 */
+.lotyssko-karminova{
+    background-color: rgb( 158, 48, 57);
+    width: 200px;
+    height: 37px;
+}
+
+.lotyssko-bila{
+    background-color: rgb( 255, 255, 255);
+    width: 200px;
+    height: 37px;
+}
+
+/* poměr stran 2:3 = 132:198, 132/3=44 */
+.litva-zluta{
+    background-color: rgb( 253, 180, 13);
+    width: 198px;
+    height: 44px;
+}
+
+.litva-zelena{
+    background-color: rgb( 0, 107, 65);
+    width: 198px;
+    height: 44px;
+}
+
+.litva-cervena{
+    background-color: rgb( 193, 58, 39);
+    width: 198px;
+    height: 44px;
+}

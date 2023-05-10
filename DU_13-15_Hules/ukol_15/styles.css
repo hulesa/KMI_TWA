@@ -1,0 +1,28 @@
+#traktor{
+    width: 232px;
+    height: 235px;
+    background: url(traktor.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+li{
+    width: 250px;
+    height: 235px;
+    background: url(naves.jpg);
+    background-repeat: no-repeat;
+    float: left;
+    text-align: center;
+    padding-top: 140px;
+}
+
+ul{
+    color: red;
+    font-size: 25px;
+    list-style-type: none;
+    float: right;
+}
+
+body{
+    margin: 0px;
+}
